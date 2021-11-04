@@ -1,6 +1,6 @@
 # azure-terraform
 Ejemplos de IaC con Terraform para administrar recursos de Azure
-
+Validate git commands
 ## Folders
 #### AzureProvider/example1 
 Archivos: 
@@ -23,3 +23,4 @@ Archivos:
 3. sql.tf: crea un servidor de sql y una base de datos con informacion de ejemplo que despues puedes usar para hacer pruebas en tu datafactory pipeline 
 4. storage.tf: crea una cuenta de almacenamiento y 2 containers que nos pueden servir como datasets en nuestro datafactory.
 5. terraform.tfvars: nuestro archivo con las variables que usamos en alguno de los archivos. 
+ delete messages

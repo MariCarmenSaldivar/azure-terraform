@@ -1,6 +1,6 @@
 # azure-terraform
 Ejemplos de IaC con Terraform para administrar recursos de Azure
-
+Validate git commands
 ## Folders
 #### AzureProvider/example1 
 Archivos: 
